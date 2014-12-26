@@ -1,4 +1,3 @@
 miscpython
 ==========
-
-Miscellaneous Python Code
+This repo contains miscellaneous python code
